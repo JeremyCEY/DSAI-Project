@@ -1,4 +1,10 @@
-# Welcome to sleep 
+# SC1015 Data Science Project - _Uncover the secrets of sleep_
+
+Our team's objective is to identify how a person’s sleep is affected by a persons's lifestyle choices, and to predict person's quality 
+
+
+
+
 
 
 
@@ -119,3 +125,13 @@ It's important to note that PCA is just one approach to identifying weights for 
 ## multivariate regression
 ## random forest regression
 ## sleep efficiency
+
+
+sleep-efficiency.csv
+-raw data
+clean-sleep-efficiency.csv
+-saved after preprocessing
+-can use raw or this one for eda
+pca-sleep-efficiency
+-saved after pca
+-use for all models
