@@ -1,5 +1,4 @@
-# _Uncover the secrets of sleep_
-by A137 Team 4
+# A137 Team 4 - _Uncover the secrets of sleep_
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on sleep efficiency from [Sleep Efficiency Dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency). For detailed walkthrough, please view the source code in order from:
