@@ -10,7 +10,18 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 5. [Random Forest Regression](https://github.com/McSpicyWifBacon/DSAI-Project/blob/main/random-forest-regression.ipynb)
 
 ## Objective
-Our team's objective is to understand how sleep is affected by a person's lifestyle choices and find out how to improve sleep quality. By inputting your lifestyle choices, we can predict your sleep quality.
+Our team's objective is to understand how sleep is affected by a person's lifestyle choices and find out how to improve sleep quality. By inputting your lifestyle choices, we can predict your numeric sleep quality.
+
+## Models used
+- KDE Plot
+- Line Plot
+- Categorical Plot
+- Scatter Plot
+- Univariate Linear Regression
+- Multivariate Linear Regression
+- Random Forest Regression
+
+## Conclusion
 
 ## Contributors
 - @McSpicyWifBacon
