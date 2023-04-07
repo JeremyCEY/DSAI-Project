@@ -1,7 +1,7 @@
 # A137 Team 4 - _Uncover the secrets of sleep_
 
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on sleep efficiency from [Sleep Efficiency Dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency). For detailed walkthrough, please view the source code in order from:
+This is a mini-project on Data Science for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on sleep efficiency. For detailed walkthrough, please view the source code in order from:
 
 1. [Data Preprocessing](https://github.com/McSpicyWifBacon/DSAI-Project/blob/main/data-preprocessing.ipynb)
 2. [Exploratory Data Analysis](https://github.com/McSpicyWifBacon/DSAI-Project/blob/main/eda.ipynb)
@@ -11,6 +11,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Objective
 Our team's objective is to understand how sleep is affected by a person's lifestyle choices and find out how to improve sleep quality. By inputting your lifestyle choices, we can predict your numeric sleep quality.
+
+## Dataset
+Our [Sleep Efficiency dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency) is extracted from Kaggle, which was collected as part of a  study conducted in UK by a research team from the University of Oxfordshire.
 
 ## Models used
 - KDE Plot
