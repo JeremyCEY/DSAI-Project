@@ -35,3 +35,6 @@ Our [Sleep Efficiency dataset](https://www.kaggle.com/datasets/equilibriumm/slee
 - <https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency>
 - <https://www.sleepfoundation.org/sleep-hygiene/how-is-sleep-quality-calculated>
 - <https://www.sleepfoundation.org/stages-of-sleep/rem-sleep>
+- <https://www.somnologymd.com/2016/12/the-importance-of-sleep-quality/>
+- <https://www.healthhub.sg/live-healthy/1034/sleep-deprivation>
+- <https://www.healthxchange.sg/news/singhealth-polyclinic-study-found-singaporeans-not-getting-enough-sleep#:~:text=%EF%80%B0%20Four%20in%2010%20people,when%20it%20comes%20to%20sleep>
