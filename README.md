@@ -6,8 +6,10 @@ This is a mini-project on Data Science for SC1015 (Introduction to Data Science 
 1. [Data Preprocessing](https://github.com/McSpicyWifBacon/DSAI-Project/blob/main/data-preprocessing.ipynb)
 2. [Exploratory Data Analysis](https://github.com/McSpicyWifBacon/DSAI-Project/blob/main/eda.ipynb)
 3. [Principle Component Analysis](https://github.com/McSpicyWifBacon/DSAI-Project/blob/main/pca.ipynb)
-4. [Multivariate Linear Regression](https://github.com/McSpicyWifBacon/DSAI-Project/blob/main/multivariate-regression.ipynb)
-5. [Random Forest Regression](https://github.com/McSpicyWifBacon/DSAI-Project/blob/main/random-forest-regression.ipynb)
+4. [Lasso Regression] (https://github.com/McSpicyWifBacon/DSAI-Project/blob/main/lasso-regression.ipynb)
+5. [Multivariate Linear Regression](https://github.com/McSpicyWifBacon/DSAI-Project/blob/main/multivariate-regression.ipynb)
+6. [Random Forest Regression](https://github.com/McSpicyWifBacon/DSAI-Project/blob/main/random-forest-regression.ipynb)
+7. [Gradient Boosting] (https://github.com/McSpicyWifBacon/DSAI-Project/blob/main/gradient-boosting.ipynb)
 
 ## Objective
 Our team's objective is to understand how sleep is affected by a person's lifestyle choices and find out how to improve sleep quality. By inputting your lifestyle choices, we can predict your numeric sleep quality.
