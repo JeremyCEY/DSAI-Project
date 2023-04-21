@@ -18,13 +18,9 @@ Our team's objective is to understand how sleep is affected by a person's lifest
 Our [Sleep Efficiency dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency) is extracted from Kaggle, which was collected as part of a  study conducted in UK by a research team from the University of Oxfordshire.
 
 ## Models used
-- KDE Plot
-- Line Plot
-- Categorical Plot
-- Scatter Plot
-- Univariate Linear Regression
 - Multivariate Linear Regression
 - Random Forest Regression
+- Extreme Gradient Boosting
 
 ## Conclusion
 
