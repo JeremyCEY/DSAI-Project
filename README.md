@@ -13,7 +13,7 @@ This is a mini-project on Data Science for SC1015 (Introduction to Data Science 
 7. [Gradient Boosting](https://github.com/McSpicyWifBacon/DSAI-Project/blob/main/gradient-boosting.ipynb)
 
 ## Objective
-Our team's objective is to understand how sleep is affected by a person's lifestyle choices and find out how to improve sleep quality. By inputting your lifestyle choices, we can predict your numeric sleep quality.
+Our team's objective is to understand how sleep is affected by a person's lifestyle choices and find out how to improve sleep quality.
 
 ## Dataset
 Our [Sleep Efficiency dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency) is extracted from Kaggle, which was collected as part of a  study conducted in UK by a research team from the University of Oxfordshire.
