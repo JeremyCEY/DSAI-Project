@@ -1,4 +1,5 @@
 # A137 Team 4 - _Uncover the secrets of sleep_
+![image](https://ibb.co/Qmsy5cR)
 
 ## About
 This is a mini-project on Data Science for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on sleep efficiency. For detailed walkthrough, please view the source code in order from:
@@ -23,11 +24,20 @@ Our [Sleep Efficiency dataset](https://www.kaggle.com/datasets/equilibriumm/slee
 - Extreme Gradient Boosting
 
 ## Conclusion
+- From Lasso Regression, relevant factors which affect sleep are age, bedtime, exercise frequency, and alcohol consumption
+- From Exploratory Data Analysis, to obtain high sleep quality:
+| Relevant Factors (EDA) | Significance towards SQ |
+| ----------------------- | ---------------------- |
+| Bedtime | high: Ideal time between 10-11 pm |
+| Wakeup time | high: Ideal time between 5-7 am |
+| Sleep Duration | high: 6-8 hours to maximize sleep quality |
+| Alcohol Consumption | high: Sleep quality is maximised when no alcohol is consumed |
+| Smoking Status | high: Smoking decreases sleep quality |
 
 ## Contributors
-- @McSpicyWifBacon
-- @notjyan
-- @jesicatjan
+- @McSpicyWifBacon - Code
+- @notjyan - Slides
+- @jesicatjan - Video
 
 ## References
 - <https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency>
