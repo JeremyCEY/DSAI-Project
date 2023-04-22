@@ -1,5 +1,5 @@
 # A137 Team 4 - _Uncover the secrets of sleep_
-![Alt text](https://ibb.co/Qmsy5cR)
+![Alt text](https://github.com/McSpicyWifBacon/DSAI-Project/blob/main/image.png)
 
 ## About
 This is a mini-project on Data Science for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on sleep efficiency. For detailed walkthrough, please view the source code in order from:
